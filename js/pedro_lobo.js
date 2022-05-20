@@ -61,6 +61,8 @@ let JSON_CUENTO = {
         {nombre:"grunido",url:"audio/pedro_lobo/fx/grunido.mp3"},
         {nombre:"corriendo",url:"audio/pedro_lobo/fx/corriendo.mp3"},
         {nombre:"lobo_pataleando",url:"audio/pedro_lobo/fx/lobo_pataleando.mp3"},
+        {nombre:"parrafo_final",url:"audio/pedro_lobo/fx/parrafo_final.mp3"},
+        {nombre:"primer_parrafo",url:"audio/pedro_lobo/fx/primer_parrafo.mp3"},
     ], 
     n_escena:0, 
     escenas: 
@@ -188,6 +190,14 @@ let JSON_CUENTO = {
                 {
                     texto: '“Espero que hayas aprendido por qué no debes decir mentiras.”',
                     tiempo:[17.1,22.4,0.8]
+                },
+                {
+                    texto: '',
+                    tiempo:[23.2,29.2, 0.5]
+                },
+                {
+                    texto: '',
+                    tiempo:[29.7,38]
                 },
             ]
         },
@@ -1180,6 +1190,13 @@ SteppedEase.config(1),repeat:31, yoyo:true,immediateRender:false}),'2_8+=13.2');
                 ANIM.fadeVolume('musica_pastoril_loop',1,0,3);
         },'5_0-=3');
         
+        ANIM.main_tl.addCallback(function(){
+                Player.playSoundFX('primer_parrafo');
+        },'4_3+=0.1');
+        ANIM.main_tl.addCallback(function(){
+                Player.playSoundFX('parrafo_final');
+        },'4_4+=0.1');
+
         ANIM.main_tl.addCallback(function(){
                 Player.playSoundFX('perro_ladra');
         },'5_1-=1.3');
