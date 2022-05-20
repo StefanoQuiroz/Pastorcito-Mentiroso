@@ -8,7 +8,7 @@ ESCENA 2.
 
 ·      Hay 10 segundos sin movimiento ni narración al principio. Por favor acortar ambos  a 3 segundos. ====> CORREGIDO
 
-·      Si uno avanza o retrocede desde la escena 2, se desconfigura la animación y no comienza igual.
+·      Si uno avanza o retrocede desde la escena 2, se desconfigura la animación y no comienza igual. ====> CORREGIDO
 
 ESCENA 3.
 
@@ -18,7 +18,7 @@ ESCENA 3.
 
 ESCENA 5.
 
-·      Agregar al final de la escena, luego de que termina de hablar el papá, los 2 audios del niño (“Desde hoy vigilaré...a ser mentiroso”) => Busque toda la tarde, y no la encontré :( => 
+·      Agregar al final de la escena, luego de que termina de hablar el papá, los 2 audios del niño (“Desde hoy vigilaré...a ser mentiroso”) => Busque toda la tarde, y no la encontré :(
 
 ESCENA 6
 
@@ -26,7 +26,7 @@ ESCENA 6
 
 ·      Dejar música en loop hasta el infinito, no cortar. ==> Corregido
 
-·      Que Pedro aparezca por la derecha apenas parta la carreta; que luego salga por la izquierda; y a los 7 segundos vuelva a aparecer por la derecha,...y así hasta el infinito y más allá. ("")
+·      Que Pedro aparezca por la derecha apenas parta la carreta; que luego salga por la izquierda; y a los 7 segundos vuelva a aparecer por la derecha,...y así hasta el infinito y más allá. ("") ===> Lamentablemente no se puede invertir, necesitaríamos    material
 
  
 
