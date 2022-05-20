@@ -1,0 +1,426 @@
+.creditos .imagen_portada,
+#final_cuento .creditos .imagen_portada{
+    background-image: url(../img/pedro_lobo/pedro_portada.jpg);
+    background-size: cover;
+    background-position: 0%;
+    background-repeat: no-repeat;
+    background-color: #7aae01;
+}
+
+.sprite{ 
+    background-image: url("../img/pedro_lobo/pedro_sprite.png");
+/*    background-color: rgba(255,0,0,0.5);*/
+}
+
+#escena_00 .fondo{ 
+    background-image: url("../img/pedro_lobo/pedro_fondo_esc0.jpg");
+/*    background-image: url("../img/pedro_lobo/normalizado_pedrito01.jpg");*/
+}
+
+#escena_00 .agua{
+    width: 122px;
+    height: 130px;
+    top: 405px;
+    left: 860px;
+    background-position: -480px -330px;
+}
+#escena_00 .caballo{
+    background-image: url(../img/pedro_lobo/pedro_esc0_caballo.png);
+    width: 233px;
+    height: 140px;
+    top: 689px;
+    left: 83px;
+}
+#escena_00 .bigote1{
+    background-image: url(../img/pedro_lobo/pedro_esc0_bigote1.png);
+    width: 47px;
+    height: 60px;
+    top: 414px;
+    left: 822px;
+}
+#escena_00 .bigote2{
+    background-image: url(../img/pedro_lobo/pedro_esc0_bigote2.png);
+    width: 74px;
+    height: 76px;
+    top: 584px;
+    left: 1112px;
+}
+#escena_00 .barba{
+    background-image: url(../img/pedro_lobo/pedro_esc0_barba.png);
+    width: 51px;
+    height: 72px;
+    top: 463px;
+    left: 660px;
+}
+#escena_00 .dama{
+    background-image: url(../img/pedro_lobo/pedro_esc0_dama.png);
+    width: 47px;
+    height: 65px;
+    top: 421px;
+    left: 1035px;
+}
+#escena_00 .rebano{
+    top: 749px;
+    left: -520px;
+}
+#escena_00 .pedro{
+    background-image: url(../img/pedro_lobo/pedro_esc0_pedro.png);
+    width: 107px;
+    height: 99px;
+    top: 0px;
+    left: 73px;
+    z-index: 6;
+}
+#escena_00 .perro{
+    background-image: url(../img/pedro_lobo/pedro_esc0_perro.png);
+    width: 60px;
+    height: 53px;
+    top: 60px;
+    left: 0px;
+    z-index: 9;
+}
+#escena_00 .oveja{
+    background-image: url(../img/pedro_lobo/pedro_esc0_oveja.png);
+    width: 50px;
+    height: 38px;
+/*    left: 190px;*/
+}
+#escena_00 .ovejaA{ top: 40px;  left:120px;  z-index:5;}
+#escena_00 .ovejaB{ top: 70px; left:200px; z-index: 7;}
+#escena_00 .ovejaC{ top: 10px; left:230px; z-index:1;}
+#escena_00 .ovejaD{ top: 100px;  left:220px; z-index: 8;}
+#escena_00 .ovejaE{ top: 30px;  left:150px;  z-index:2;}
+#escena_00 .ovejaF{ top: 10px;  left:290px;  z-index:3;}
+#escena_00 .ovejaG{ top: 50px;  left:350px;  z-index:4;}
+/*#escena_00 .ovejaH{ top: 120px;  left:350px; }*/
+
+#escena_01 .fondo{ 
+    background-image: url("../img/pedro_lobo/pedro_fondo_esc1.jpg");
+/* background-image: url("../img/pedro_lobo/normalizado_pedrito01.jpg");*/
+}
+#escena_01 .pedro{
+    background-image: url(../img/pedro_lobo/pedro_esc1_pedro.png);
+    width: 104.5px;
+    height: 117px;
+    z-index: 1;
+    left:-255px;
+    top: 35px;
+}
+#escena_01 .perro,
+#escena_02 .perroC{
+    background-image: url(../img/pedro_lobo/pedro_esc1_perro.png);
+    width: 82.5px;
+    height: 74px;
+    left:-255px;
+    top: 25px;
+}
+#escena_01 .oveja{
+    background-image: url(../img/pedro_lobo/pedro_esc1_oveja.png);
+    width: 70px;
+    height: 50px;
+    left:-255px;
+    top: 35px;
+}
+#escena_01 .montana{
+    width:484px;
+    height: 480px;
+    left:497px;
+    bottom: 0px;
+    z-index: 2;
+}
+.mariposa{
+    width:60px;
+    height: 54px;
+    left:-60px;
+    z-index: 5;
+    top: 0;
+}
+.mariposa .anim{
+    width:60px;
+    height: 54px;
+    background-position: -864px -284px;
+/*    background-color: red;*/
+    animation: anim_aleteo_mariposa 0.3s steps(1) infinite;
+}
+@keyframes anim_aleteo_mariposa {
+  0%    {
+        background-position: -864px -284px;
+    }
+    
+    50%    {
+        background-position: -920px -284px;
+    }
+/*
+    100%    {
+        background-position: -864px -284px;
+    }
+*/
+}
+.pajarito{
+    width:86px;
+    height: 69px;
+    z-index: 9;
+}
+.pajarito.azul{
+    background-image: url(../img/pedro_lobo/pedro_sprite_pajaro_azul.png);
+}
+.pajarito.amarillo{
+    background-image: url(../img/pedro_lobo/pedro_sprite_pajaro_amarillo.png);
+    height: 68px;
+}
+.sol{
+    width:120px;
+    height: 120px;
+    background-position: -875px -160px;
+    top: 290px;
+    left: 650px;
+}
+
+#escena_02 .fondo{ 
+    background-image: url("../img/pedro_lobo/pedro_fondo_esc2.jpg");
+    background-size: cover;
+/*    background-image: url("../img/pedro_lobo/normalizado_pedrito03B.jpg");*/
+}
+#escena_02 .sol{
+    top: 320px;
+    left: 1040px;
+}
+#escena_02 .pedroA{
+    background-image: url(../img/pedro_lobo/pedro_esc2_pedro6.png);
+    width: 193px;
+    height: 160px;
+    top: 265px;
+    left: 203px;
+    background-position: 0% -200%;
+}
+#escena_02 .pedroB{
+    background-image: url(../img/pedro_lobo/pedro_esc2_pedroGrita.png);
+    width: 176px;
+    height: 174px;
+    top: 220px;
+    left: 304px;
+}
+
+#escena_02 .pedroC{
+    background-image: url(../img/pedro_lobo/pedro_esc2_pedroCorre.png);
+    width: 199px;
+    height: 249px;
+    top: 150px;
+    left: 300px;
+}
+
+#escena_02 .perroA{
+    background-image: url(../img/pedro_lobo/pedro_esc2_perroA.png);
+    width: 90px;
+    height: 105px;
+    top: 320px;
+    left: 180px;
+    background-position: -100% 0%;
+}
+#escena_02 .perroC{
+    left: 300px;
+    top: 350px;
+}
+#escena_02 .oveja{
+    background-image: url(../img/pedro_lobo/pedro_esc2_oveja4.png);
+    width: 222px;
+    height: 212px;
+    background-position: -100% 0%;
+}
+#escena_02 .bigote1{
+    background-image: url(../img/pedro_lobo/pedro_esc2_bigote1.png);
+    width: 103px;
+    height: 163px;
+}
+#escena_02 .bigote2{
+    background-image: url(../img/pedro_lobo/pedro_esc2_bigote2.png);
+    width: 161.5px;
+    height: 188px;
+}
+#escena_02 .bigote3{
+    background-image: url(../img/pedro_lobo/pedro_esc2_bigote3.png);
+    width: 93px;
+    height: 191px;
+}
+#escena_02 .barba{
+    background-image: url(../img/pedro_lobo/pedro_esc2_barba.png);
+    width: 131px;
+    height: 171px;
+}
+#escena_02 .dama{
+    background-image: url(../img/pedro_lobo/pedro_esc2_dama.png);
+    width: 96px;
+    height: 142px;
+}
+#escena_02 .lobo,
+#escena_03 .lobo_corre{
+    background-image: url(../img/pedro_lobo/pedro_esc2_lobo.png);
+    width: 285px;
+    height: 130px;
+}
+
+#escena_02 .ovejaA{    top: 420px;      left: 345px;  }
+#escena_02 .ovejaB{    top: 680px;      left: 445px;  }
+#escena_02 .ovejaC{    top: 830px;      left: 705px;  }
+#escena_02 .oveja .masca{
+    width: 41px;
+    height: 41px;
+    background-position: -867px -337px;
+    top: 125px;
+    left: 157px;
+}
+#escena_02 .humito{
+    width: 382px;
+    height: 179px;
+    background-position: -477px -149px;
+/*    background-color: rgba(255,0,0,0.3);*/
+    top: 255px;
+    left: 105px;
+}
+
+#escena_02 .ampolleta{
+    width: 85px;
+    height: 105px;
+    background-position: -777px -329px;
+/*    background-color: rgba(255,0,0,0.9);*/
+    top: 205px;
+    left: 235px;
+}
+
+#escena_03 .fondo{ 
+    background-image: url("../img/pedro_lobo/pedro_fondo_esc3.jpg");
+/*    background-image: url("../img/pedro_lobo/testpos3.jpg");*/
+}
+
+#escena_03 .cont_lobo_corre{
+/*    background-color: rgba(0,0,55,0.2);*/
+    height: 690px;
+    width: 520px;
+    overflow: hidden;
+}
+#escena_03 .lobo_corre{
+    top: 485px;
+    left: 530px;
+}
+#escena_03 .arbol{
+    width: 239px;
+    height: 186px;
+    background-position: -1059px 0px;
+    top: 390px;
+    left: 283px;
+}
+#escena_03 .lobo{
+    width: 265.5px;
+    height: 192px;
+    top: 825px;
+    left: 695px;
+}
+#escena_03 .lobo .cuerpo{
+    background-image: url("../img/pedro_lobo/pedro_esc3_lobo.png");
+    width: 265.5px;
+    height: 192px;
+}
+#escena_03 .lobo .ojo{
+    width: 70px;
+    height: 60px;
+    background-position: -613px -422px;
+/*    background-color: black;*/
+    left: 51px;
+    top: -18px;
+/*    opacity: 0.9;*/
+}
+#escena_03 .humitos{
+    top: 20px;
+}
+#escena_03 .humo{
+    width: 566px;
+    height: 149px;
+    background-position: -483px 0px;
+    left: -340px;
+}
+
+#escena_04 .fondo{ 
+    background-image: url("../img/pedro_lobo/pedro_fondo_esc4.jpg");
+/*    background-image: url("../img/pedro_lobo/testpos4.jpg");*/
+}
+#escena_04 .bigote{
+    width: 224px;
+    height: 145px;
+    left: 444px;
+    top: 650px;
+    background-position: -908px -340px;
+}
+#escena_04 .bigote{
+    width: 224px;
+    height: 145px;
+    left: 444px;
+    top: 650px;
+    background-position: -908px -340px;
+}
+#escena_04 .boca{
+    background-image: url("../img/pedro_lobo/pedro_esc4_boca.png");
+    width: 62px;
+    height: 32px;
+    left: 876px;
+    top: 790px;
+}
+#escena_04 .ojos1{
+    width: 173px;
+    height: 45px;
+    left:454px;
+    top: 617px;
+    background-position: -603px -328px;
+/*    background-color: black;*/
+/*    opacity: 0.7;*/
+}
+#escena_04 .ojos2{
+    width: 156px;
+    height: 48px;
+    left:1071px;
+    top: 763px;
+    background-position: -603px -374px;
+/*    background-color: black;*/
+/*    opacity: 0.7;*/
+}
+#escena_04 .lagrima{
+    width: 15px;
+    height: 35px;
+    left:1071px;
+    top: 793px;
+    background-position: -999px -182px;
+/*    background-color: black;*/
+/*    opacity: 0.7;*/
+}
+#escena_04 .lagrima2{
+    left: 1200px;
+    top: 785px;
+}
+
+#escena_00 .btn_interact{ top: 230px; left: 1350px; }
+
+#escena_01 .btn_interact{ top: 470px; left: 850px; }
+
+#escena_02 .btn_interact{ top: 390px; left: 630px; }
+
+#escena_03 .btn_interact{ top: 405px; left: 110px;}
+
+#escena_04 .btn_interact{ top: 262px; left: 800px; }
+
+#escena_05 .btn_interact{ top: 315px; left: 579px; }
+
+#escena_06 .btn_interact{ top: 300px; left: 1285px; }
+
+#escena_07 .btn_interact{ top: 170px; left: 210px;}
+
+#escena_08 .btn_interact{ top: 250px; left: 1590px;}
+
+
+
+
+
+
+
+
+
+
+

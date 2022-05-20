@@ -1,0 +1,33 @@
+Descripción
+
+ESCENA 1.
+
+·      Que Pedro aparezca en escena en el mismo momento en que termine la música (ahora está muy larga esa espera) .Si se puede, que ladridos y balidos de ovejas bajen de volumen cuando comience la narración. ====> CORREGIDO
+
+ESCENA 2.
+
+·      Hay 10 segundos sin movimiento ni narración al principio. Por favor acortar ambos  a 3 segundos. ====> CORREGIDO
+
+·      Si uno avanza o retrocede desde la escena 2, se desconfigura la animación y no comienza igual.
+
+ESCENA 3.
+
+·      Hay 10 segundos sin narración al principio. Por favor acortar  a 3 segundos. ====> CORREGIDO
+
+·      Después del primer grito “Ayuda, que viene el lobo y e come” hay 7 segundos sin narración. Acortar a 3 segundos. ====> CORREGIDO
+
+ESCENA 5.
+
+·      Agregar al final de la escena, luego de que termina de hablar el papá, los 2 audios del niño (“Desde hoy vigilaré...a ser mentiroso”) => Busque toda la tarde, y no la encontré :( => 
+
+ESCENA 6
+
+·      Sacar subtítulos, en esta escena no van subtítulos (esos eran un “ensayo") ===> Corregido
+
+·      Dejar música en loop hasta el infinito, no cortar. ==> Corregido
+
+·      Que Pedro aparezca por la derecha apenas parta la carreta; que luego salga por la izquierda; y a los 7 segundos vuelva a aparecer por la derecha,...y así hasta el infinito y más allá. ("")
+
+ 
+
+¡Muchas gracias!
