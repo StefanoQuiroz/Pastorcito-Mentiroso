@@ -18,7 +18,7 @@ ESCENA 3.
 
 ESCENA 5.
 
-·      Agregar al final de la escena, luego de que termina de hablar el papá, los 2 audios del niño (“Desde hoy vigilaré...a ser mentiroso”) => Busque toda la tarde, y no la encontré :(
+·      Agregar al final de la escena, luego de que termina de hablar el papá, los 2 audios del niño (“Desde hoy vigilaré...a ser mentiroso”) ====> CORREGIDO
 
 ESCENA 6
 
