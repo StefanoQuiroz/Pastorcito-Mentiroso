@@ -8,6 +8,8 @@ ESCENA 2.
 
 ·      Hay 10 segundos sin movimiento ni narración al principio. Por favor acortar ambos  a 3 segundos. ====> CORREGIDO
 
+·      Hay 10 segundos sin movimiento ni narración al principio. Por favor acortar ambos  a 3 segundos. HAY UN CORTE MUY BRUSCO CUANDO TERMINA LA MÚSICA, DEJAR EN FADE 
+
 ·      Si uno avanza o retrocede desde la escena 2, se desconfigura la animación y no comienza igual. ====> CORREGIDO
 
 ESCENA 3.

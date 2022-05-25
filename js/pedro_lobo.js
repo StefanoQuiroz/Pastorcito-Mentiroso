@@ -192,11 +192,11 @@ let JSON_CUENTO = {
                     tiempo:[17.1,22.4,0.8]
                 },
                 {
-                    texto: '',
+                    texto: '“Desde hoy vigilaré desde la colina <br> y traeré a cada oveja perdida en la neblina.”',
                     tiempo:[23.2,29.2, 0.5]
                 },
                 {
-                    texto: '',
+                    texto: '“Aprendí a respetar al lobo rabioso y jamás volveré a ser mentiroso.”',
                     tiempo:[29.7,38]
                 },
             ]
@@ -744,6 +744,8 @@ SteppedEase.config(2),repeat:7,yoyo:true})
         ANIM.main_tl.addCallback(function(){
             Player.playSoundFX('pajaritos');
             Player.playSoundFX('ovejas_balan');
+            ANIM.fadeVolume('pajaritos',1,0,3);
+            ANIM.fadeVolume('ovejas_balan',1,0,3);
         },'escena_1+=0.1');
         
         ANIM.main_tl.addCallback(function(){
@@ -751,7 +753,8 @@ SteppedEase.config(2),repeat:7,yoyo:true})
         },'1_0-=3');
         
         ANIM.main_tl.addCallback(function(){
-            Player.playSoundFX('perro_ladra');
+            ANIM.fadeVolume('perro_ladra',1,0,3);
+            //Player.playSoundFX('perro_ladra');
         },'1_0-=1.3');
         
         ANIM.main_tl.addCallback(function(){
