@@ -1,35 +1,11 @@
 Descripción
 
-ESCENA 1.
+1) Los créditos de sonido no están funcionando. Preguntarle a Andrés.
+2) En la escena 2 hay una error: cuando el niño y las ovejas salen de escena detrás de la primera loma, “retroceden” y comienzan a subir nuevamente la misma colina desde cero. Por favor, que apenas Pedro se esconda tras la primera colina, que aparezcan las ovejas y el perro subiendo la segunda loma (superponiéndose a las ovejas que van bajando atrás) Que al final suene la música nuevamente en loop. Comentar con Luis
+4) En la penúltima escena la voz del niño tiene el volumen demasiado bajo en comparación a la narración. No se escucha bien. Por favor al terminar la escena poner la música nuevamente en loop. Corregido
+5) En la última escena que Pedro aparezca de inmediato y que la música quede en loop sin silencios entre medio. Pedimos también que cuando Pedro salga de escena por la izquierda, vuelva a entrar por la derecha. Corregido No se pudo lograr por falta de materiales, se corrigió que Pedro aparezca de inmediato y la musica loop, con la música de rebaño
 
-·      Que Pedro aparezca en escena en el mismo momento en que termine la música (ahora está muy larga esa espera) .Si se puede, que ladridos y balidos de ovejas bajen de volumen cuando comience la narración. ====> CORREGIDO
-
-ESCENA 2.
-
-·      Hay 10 segundos sin movimiento ni narración al principio. Por favor acortar ambos  a 3 segundos. ====> CORREGIDO
-
-·      Hay 10 segundos sin movimiento ni narración al principio. Por favor acortar ambos  a 3 segundos. HAY UN CORTE MUY BRUSCO CUANDO TERMINA LA MÚSICA, DEJAR EN FADE 
-
-·      Si uno avanza o retrocede desde la escena 2, se desconfigura la animación y no comienza igual. ====> CORREGIDO
-
-ESCENA 3.
-
-·      Hay 10 segundos sin narración al principio. Por favor acortar  a 3 segundos. ====> CORREGIDO
-
-·      Después del primer grito “Ayuda, que viene el lobo y e come” hay 7 segundos sin narración. Acortar a 3 segundos. ====> CORREGIDO
-
-ESCENA 5.
-
-·      Agregar al final de la escena, luego de que termina de hablar el papá, los 2 audios del niño (“Desde hoy vigilaré...a ser mentiroso”) ====> CORREGIDO
-
-ESCENA 6
-
-·      Sacar subtítulos, en esta escena no van subtítulos (esos eran un “ensayo") ===> Corregido
-
-·      Dejar música en loop hasta el infinito, no cortar. ==> Corregido
-
-·      Que Pedro aparezca por la derecha apenas parta la carreta; que luego salga por la izquierda; y a los 7 segundos vuelva a aparecer por la derecha,...y así hasta el infinito y más allá. ("") ===> Lamentablemente no se puede invertir, necesitaríamos    material
-
- 
-
-¡Muchas gracias!
+Cata, 
+olvidé decirte que este cuento no es Cuento de Hadas como indica la portada. Puede ser Cuentos sobre niños, Cuentos clásicos, Fábulas, Cuentos sobre honestidad y responsabilidad, y a partir de 3 años.
+Gracias, 
+Seleccionado: Cuento sobre honestidad y responsabilidad
